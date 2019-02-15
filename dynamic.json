@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"image1.jpeg",
+		"name":"bhargavi",
+		"roll":"16a31a0513",
+		"palce":"rajahmundry",
+		"des":"student"
+	},
+	"career":{
+		"info":"i want to seek a position where i can get salary and independent life"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"B.tech",
+			"institue":"pragati",
+			"per":"95",
+			"yop":"2020"
+},
+{
+	"sno":"2",
+	"degree":"intermediate",
+	"institute":"chaitanya",
+	"per":"97",
+	"yop":"2014"
+},
+
+{
+	"sno":"3",
+"degree":"s.s.c",
+"institute":"gowtham school",
+"per":"98",
+"yop":"2012"
+}
+],
+"lang":[
+{
+	"lang":"english"
+},
+{
+	"lang":"hindi"
+},
+{
+	"lang":"tamil"
+}
+]
+}
